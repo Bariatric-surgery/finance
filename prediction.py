@@ -8,4 +8,3 @@ def predict2(data):
     reg = joblib.load('reg2_model.sav')
     return reg.predict(data)
 
-
