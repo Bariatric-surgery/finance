@@ -28,5 +28,3 @@ reg2.fit(feature, Final_Revenue)
 # save the model to disk
 joblib.dump(reg, "reg_model.sav")
 joblib.dump(reg2, "reg2_model.sav")
-
-
