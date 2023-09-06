@@ -100,8 +100,8 @@ def cal_result():
     st.text(str(int(result[0])) +" CHF")
     
     result2 = predict2(X)
-    st.text("Final Revenue")
-    st.text(str(int(result2[0])) +" CHF")    
+    #st.text("Final Revenue")
+    #st.text(str(int(result2[0])) +" CHF")    
 
 st.title('Predict model')
 
@@ -157,6 +157,68 @@ with col3:
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
     
     
     
